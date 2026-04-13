@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.log
 *.tmp
 .vs/ 
@@ -12,3 +13,46 @@ Release/
 *.vcxproj.filters
 *.vcxproj.user
 .sln 
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+>>>>>>> 8353761dd8b1cccd3ef9d83d50e734fab26e8fbb
